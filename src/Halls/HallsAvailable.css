@@ -1,0 +1,17 @@
+.halls-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.halls-list {
+    list-style: none;
+    padding: 0;
+}
+
+.hall-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+}
